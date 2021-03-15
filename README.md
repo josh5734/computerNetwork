@@ -1,5 +1,5 @@
 # ComputerNetwork
-### 컴퓨터네트워크 수업 프로젝트입니다.
+### 컴퓨터네트워크 수업 프로젝트 및 Study 내용
 ##### 프로젝트는 Python으로 진행했습니다.  
 
 
@@ -28,3 +28,5 @@
 
 ![456](https://user-images.githubusercontent.com/61929745/105860770-4ad3f180-6031-11eb-80f3-be589e1fbb4b.PNG)
 
+
+4. Network 개인 스터디 내용은 .md 파일 형식으로 
