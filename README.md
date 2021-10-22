@@ -28,5 +28,3 @@
 
 ![456](https://user-images.githubusercontent.com/61929745/105860770-4ad3f180-6031-11eb-80f3-be589e1fbb4b.PNG)
 
-
-4. Network 개인 스터디 내용은 .md 파일 형식으로 
